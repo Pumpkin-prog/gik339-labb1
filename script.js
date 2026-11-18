@@ -1,4 +1,4 @@
-console.log("Hej från JavaScript!");
+console.log("Javascript");
 
 console.log("FÖRE BLOCKET");
 
